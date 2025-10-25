@@ -12,7 +12,8 @@ This code plotted large amounts of data onto a graph which is easy to view
 <img width="760" height="174" alt="Screenshot 2025-10-25 at 10 16 53" src="https://github.com/user-attachments/assets/fb985fea-66f3-45c6-abf6-d4ea3aba8a28" />
 <img width="537" height="252" alt="Screenshot 2025-10-25 at 10 17 02" src="https://github.com/user-attachments/assets/3eab6662-8fed-4f1d-8352-0c50084f3c90" />
 
-This last bit of code brought all previous code together to proeuce an easy to read graph which shows how the room cools over a given time frame.
+This last bit of code brought all previous code together to proeuce an easy to read graph which shows how the room cools over a given time frame
+
 <img width="604" height="72" alt="Screenshot 2025-10-25 at 10 17 11" src="https://github.com/user-attachments/assets/bc850f2e-693c-4e16-8993-114fb8aca435" />
 <img width="768" height="211" alt="Screenshot 2025-10-25 at 10 17 22" src="https://github.com/user-attachments/assets/a831f294-0af6-4145-8b44-2f21515da263" />
 
