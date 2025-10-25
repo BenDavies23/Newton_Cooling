@@ -1,4 +1,10 @@
 ### Analysing the cooling of a room with Newtons experimental law of coolimng using Eulers method
+
+This project analysed heat transfer through six different sides of a room by considering the simple model provided which gave variables such as:
+- T(t) = temperature inside the room
+- T_env = Outside temperature
+- alpha_i = coefficient indicating heat loss for each side (i)
+- t = time
 <img width="522" height="370" alt="Screenshot 2025-10-25 at 10 16 08" src="https://github.com/user-attachments/assets/91910244-e744-4cc7-b05c-73f4fd32b54c" />
 
 <img width="780" height="149" alt="Screenshot 2025-10-25 at 10 16 25" src="https://github.com/user-attachments/assets/7584cef4-ff74-4b73-a0d4-2f41240bc3f1" />
